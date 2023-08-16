@@ -1,0 +1,9 @@
+每個圖，需要付上可以重製之相關資料與說明
+
+Excel 實驗數據
+Visio 圖檔
+ppt 圖檔
+matlab 程式碼
+grapher 檔案
+OpenGL 程式碼 + volume data + 相關參數設定
+(以可以重新製作該圖為原則)

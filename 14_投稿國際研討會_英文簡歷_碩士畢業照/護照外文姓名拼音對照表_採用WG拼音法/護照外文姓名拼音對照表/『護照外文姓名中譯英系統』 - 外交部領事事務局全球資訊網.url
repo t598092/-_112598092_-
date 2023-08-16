@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.boca.gov.tw/sp?xdURL=E2C/c2102-5.asp&CtNode=677&mp=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.boca.gov.tw/sp?xdURL=E2C/c2102-5.asp&CtNode=677&mp=1
+IDList=
