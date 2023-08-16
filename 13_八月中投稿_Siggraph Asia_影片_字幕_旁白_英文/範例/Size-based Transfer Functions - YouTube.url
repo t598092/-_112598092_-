@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.youtube.com/watch?v=wS42qKc5k6M
+[DOC#948]
+BASEURL=http://www.youtube.com/watch?v=wS42qKc5k6M
+ORIGURL=javascript:""
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.youtube.com/watch?v=wS42qKc5k6M
+IDList=
+IconFile=http://s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png
+IconIndex=1
